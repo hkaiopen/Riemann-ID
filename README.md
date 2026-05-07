@@ -42,6 +42,25 @@ python zero_mapping.py
 
 All PDF figures will be written to the current working directory.
 
+---
+
+## 9. License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** (CC BY-NC-SA 4.0).
+
+This license allows you to:
+*   **Share** — copy and redistribute the material in any medium or format.
+*   **Adapt** — remix, transform, and build upon the material.
+
+Under the following terms:
+1.  **Attribution (BY)** — You must give **appropriate credit**, provide a link to the license, and **indicate if changes were made**.
+2.  **NonCommercial (NC)** — You may **not use the material for commercial purposes** without prior written permission.
+3.  **ShareAlike (SA)** — If you remix, transform, or build upon the material, you **must distribute your contributions under the same license**.
+
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+---
+
 ## Citation
 If you use this code or data in your research, please cite:
 
